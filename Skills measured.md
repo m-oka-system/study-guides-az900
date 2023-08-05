@@ -1,4 +1,4 @@
-Skills_measured_prior_to_July_31_2023
+Skills_measured_as_of_July_31_2023
 
 ### Describe cloud concepts (25–30%)
 
@@ -15,6 +15,8 @@ Skills_measured_prior_to_July_31_2023
 - Describe the consumption-based model
 
 - Compare cloud pricing models
+
+- Describe serverless
 
 #### Describe the benefits of using cloud services
 
@@ -34,7 +36,7 @@ Skills_measured_prior_to_July_31_2023
 
 - Describe software as a service (SaaS)
 
-- Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS)
+- Identify appropriate use cases for each cloud service (IaaS, PaaS, and SaaS)
 
 ### Describe Azure architecture and services (35–40%)
 
@@ -56,21 +58,21 @@ Skills_measured_prior_to_July_31_2023
 
 #### Describe Azure compute and networking services
 
-- Compare compute types, including container instances, virtual machines (VMs), and functions
+- Compare compute types, including containers, virtual machines, and functions
 
-- Describe VM options, including Azure Virtual Machines, Azure Virtual Machine Scale Sets, availability sets, and Azure Virtual Desktop
+- Describe virtual machine options, including Azure virtual machines, Azure Virtual Machine Scale Sets, availability sets, and Azure Virtual Desktop
 
-- Describe resources required for virtual machines
+- Describe the resources required for virtual machines
 
-- Describe application hosting options, including the Web Apps feature of Azure App Service, containers, and virtual machines
+- Describe application hosting options, including web apps, containers, and virtual machines
 
-- Describe virtual networking, including the purpose of Azure Virtual Networks, Azure virtual subnets, peering, Azure DNS, Azure VPN Gateway, and Azure ExpressRoute
+- Describe virtual networking, including the purpose of Azure virtual networks, Azure virtual subnets, peering, Azure DNS, Azure VPN Gateway, and ExpressRoute
 
 - Define public and private endpoints
 
 #### Describe Azure storage services
 
-- Compare Azure storage services
+- Compare Azure Storage services
 
 - Describe storage tiers
 
@@ -84,19 +86,19 @@ Skills_measured_prior_to_July_31_2023
 
 #### Describe Azure identity, access, and security
 
-- Describe directory services in Azure, including Microsoft Azure Active Directory (Azure AD), part of Microsoft Entra and Azure Active Directory Domain Services (Azure AD DS)
+- Describe directory services in Azure, including Azure Active Directory (Azure AD), part of Microsoft Entra and Azure Active Directory Domain Services (Azure AD DS)
 
-- Describe authentication methods in Azure, including single sign-on (SSO), multifactor authentication, and passwordless
+- Describe authentication methods in Azure, including single sign-on (SSO), multi-factor authentication (MFA), and passwordless
 
-- Describe external identities and guest access in Azure
+- Describe external identities in Azure, including business-to-business (B2B) and business-to-customer (B2C)
 
-- Describe Conditional Access in Microsoft Azure Active Directory (Azure AD), part of Microsoft Entra
+- Describe Conditional Access in Azure AD
 
 - Describe Azure role-based access control (RBAC)
 
 - Describe the concept of Zero Trust
 
-- Describe the purpose of the defense in depth model
+- Describe the purpose of the defense-in-depth model
 
 - Describe the purpose of Microsoft Defender for Cloud
 
@@ -106,31 +108,31 @@ Skills_measured_prior_to_July_31_2023
 
 - Describe factors that can affect costs in Azure
 
-- Compare the Pricing calculator and the Total Cost of Ownership (TCO) calculator
+- Compare the pricing calculator and the Total Cost of Ownership (TCO) Calculator
 
-- Describe the Azure Cost Management and Billing tool
+- Describe cost management capabilities in Azure
 
 - Describe the purpose of tags
 
 #### Describe features and tools in Azure for governance and compliance
 
-- Describe the purpose of Azure Blueprints
+- Describe the purpose of Microsoft Purview in Azure
 
 - Describe the purpose of Azure Policy
 
 - Describe the purpose of resource locks
 
-- Describe the purpose of the Service Trust Portal
-
 #### Describe features and tools for managing and deploying Azure resources
 
 - Describe the Azure portal
 
-- Describe Azure Cloud Shell, including Azure CLI and Azure PowerShell
+- Describe Azure Cloud Shell, including Azure Command-Line Interface (CLI) and Azure PowerShell
 
 - Describe the purpose of Azure Arc
 
-- Describe Azure Resource Manager and Azure Resource Manager templates (ARM templates)
+- Describe infrastructure as code (IaC)
+
+- Describe Azure Resource Manager (ARM) and ARM templates
 
 #### Describe monitoring tools in Azure
 
