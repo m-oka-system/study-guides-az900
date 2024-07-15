@@ -1,4 +1,4 @@
-Skills_measured_as_of_July_31_2023
+Skills_measured_as_of_January_23_2024
 
 ### Describe cloud concepts (25–30%)
 
@@ -36,7 +36,7 @@ Skills_measured_as_of_July_31_2023
 
 - Describe software as a service (SaaS)
 
-- Identify appropriate use cases for each cloud service (IaaS, PaaS, and SaaS)
+- Identify appropriate use cases for each cloud service type (IaaS, PaaS, and SaaS)
 
 ### Describe Azure architecture and services (35–40%)
 
@@ -71,7 +71,6 @@ Skills_measured_as_of_July_31_2023
 - Define public and private endpoints
 
 #### Describe Azure storage services
-
 - Compare Azure Storage services
 
 - Describe storage tiers
@@ -86,13 +85,13 @@ Skills_measured_as_of_July_31_2023
 
 #### Describe Azure identity, access, and security
 
-- Describe directory services in Azure, including Azure Active Directory (Azure AD), part of Microsoft Entra and Azure Active Directory Domain Services (Azure AD DS)
+- Describe directory services in Azure, including Microsoft Entra ID and Microsoft Entra Domain Services
 
 - Describe authentication methods in Azure, including single sign-on (SSO), multi-factor authentication (MFA), and passwordless
 
 - Describe external identities in Azure, including business-to-business (B2B) and business-to-customer (B2C)
 
-- Describe Conditional Access in Azure AD
+- Describe Microsoft Entra Conditional Access
 
 - Describe Azure role-based access control (RBAC)
 
