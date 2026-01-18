@@ -1,4 +1,4 @@
-Skills_measured_as_of_January_23_2024
+Skills_measured_as_of_January_14_2026
 
 ### Describe cloud concepts (25–30%)
 
@@ -71,6 +71,7 @@ Skills_measured_as_of_January_23_2024
 - Define public and private endpoints
 
 #### Describe Azure storage services
+
 - Compare Azure Storage services
 
 - Describe storage tiers
@@ -87,9 +88,9 @@ Skills_measured_as_of_January_23_2024
 
 - Describe directory services in Azure, including Microsoft Entra ID and Microsoft Entra Domain Services
 
-- Describe authentication methods in Azure, including single sign-on (SSO), multi-factor authentication (MFA), and passwordless
+- Describe authentication methods in Azure, including single sign-on (SSO), multifactor authentication (MFA), and passwordless
 
-- Describe external identities in Azure, including business-to-business (B2B) and business-to-customer (B2C)
+- Describe external identities in Azure
 
 - Describe Microsoft Entra Conditional Access
 
@@ -107,7 +108,7 @@ Skills_measured_as_of_January_23_2024
 
 - Describe factors that can affect costs in Azure
 
-- Compare the pricing calculator and the Total Cost of Ownership (TCO) Calculator
+- Explore the pricing calculator
 
 - Describe cost management capabilities in Azure
 
